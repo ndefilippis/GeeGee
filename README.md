@@ -1,3 +1,3 @@
 # GeeGee
 ---
-GeeGee is an open-source MLG tool
+GeeGee is an open-source MLG tool.
